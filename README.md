@@ -5,9 +5,8 @@ It is about Eren's journey with the Survey Corps as they fight against the Titan
 ## Information ##
 ---
 
-| Entry | Description |
-| ----------- | ----------- |
 | Language | Name |
+| ----------- | ----------- |
 | English | Attack on Titan |
 | Japanese | 進撃の巨人 |
 | Romaji | Shingeki no Kyojin |
